@@ -5,7 +5,7 @@
 NAME = "ZenPacks.fdeckert.myeventviews"
 VERSION = "1.2"
 AUTHOR = "Florian Deckert"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.fdeckert']
 PACKAGES = ['ZenPacks', 'ZenPacks.fdeckert', 'ZenPacks.fdeckert.myeventviews']
 INSTALL_REQUIRES = []
